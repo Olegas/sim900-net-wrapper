@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "serial": "0.0.6",
-    "uart-commander": "0.0.1"
+    "uart-commander": "0.0.1",
+    "chunking-streams": "0.0.7-b1"
   }
 }
